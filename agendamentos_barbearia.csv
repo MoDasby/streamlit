@@ -1,0 +1,80 @@
+Nome,Serviço,Data,Hora,Valor pago,Forma de pagamento,Barbeiro
+João Silva,Corte de cabelo,2025-04-01,14:00,40,Cartão,André
+Maria Souza,Corte + Barba,2025-04-01,15:00,70,Dinheiro,Bruno
+Carlos Lima,Barba,2025-04-02,10:00,30,Cartão,André
+Fernanda Alves,Corte de cabelo,2025-04-02,11:00,40,Pix,Lucas
+Pedro Santos,Corte + Barba,2025-04-03,13:00,70,Cartão,Bruno
+Ana Paula,Corte de cabelo,2025-04-03,14:00,40,Dinheiro,André
+Lucas Pereira,Barba,2025-04-04,15:00,30,Pix,Lucas
+Juliana Costa,Corte de cabelo,2025-04-04,16:00,40,Cartão,André
+Rafael Souza,Corte + Barba,2025-04-05,10:00,70,Cartão,Bruno
+Carla Oliveira,Corte de cabelo,2025-04-05,11:00,40,Pix,Lucas
+Roberta Silva,Corte de cabelo,2025-04-06,09:00,40,Cartão,André
+Fabio Costa,Barba,2025-04-06,10:00,30,Dinheiro,Bruno
+Mariana Souza,Corte + Barba,2025-04-07,14:00,70,Pix,Lucas
+Vitor Lima,Corte de cabelo,2025-04-07,15:00,40,Cartão,André
+Camila Santos,Barba,2025-04-08,16:00,30,Pix,Lucas
+Eduardo Ferreira,Corte + Barba,2025-04-08,10:00,70,Cartão,Bruno
+Letícia Almeida,Corte de cabelo,2025-04-09,11:00,40,Dinheiro,André
+Felipe Costa,Barba,2025-04-10,10:00,30,Cartão,Bruno
+Vanessa Martins,Corte de cabelo,2025-04-10,12:00,40,Pix,Lucas
+Thiago Lima,Corte + Barba,2025-04-11,13:00,70,Dinheiro,André
+Paula Ferreira,Barba,2025-04-11,14:00,30,Cartão,Lucas
+Luana Mendes,Corte de cabelo,2025-04-12,10:00,40,Pix,Bruno
+Adriana Rocha,Corte + Barba,2025-04-12,11:00,70,Dinheiro,André
+Renan Souza,Barba,2025-04-13,14:00,30,Cartão,Lucas
+Aline Pereira,Corte de cabelo,2025-04-13,15:00,40,Cartão,Bruno
+Gustavo Santos,Corte + Barba,2025-04-14,16:00,70,Pix,André
+Juliano Costa,Barba,2025-04-14,10:00,30,Cartão,Lucas
+Tais Almeida,Corte de cabelo,2025-04-15,11:00,40,Cartão,André
+Carlos Henrique,Corte + Barba,2025-04-15,12:00,70,Pix,Bruno
+Isabela Costa,Barba,2025-04-16,14:00,30,Dinheiro,Lucas
+Karla Oliveira,Corte de cabelo,2025-04-16,15:00,40,Pix,André
+Marcos Lima,Corte + Barba,2025-04-17,10:00,70,Cartão,Lucas
+Tatiane Souza,Corte de cabelo,2025-04-17,11:00,40,Pix,Bruno
+Larissa Rocha,Corte + Barba,2025-04-18,14:00,70,Cartão,André
+Renato Santos,Barba,2025-04-18,15:00,30,Pix,Lucas
+Vera Costa,Corte de cabelo,2025-04-19,10:00,40,Dinheiro,Bruno
+Simone Pereira,Corte + Barba,2025-04-19,11:00,70,Pix,André
+Luciana Alves,Barba,2025-04-20,14:00,30,Cartão,Lucas
+José Souza,Corte de cabelo,2025-04-20,15:00,40,Pix,Bruno
+Juliana Lima,Corte + Barba,2025-04-21,10:00,70,Cartão,André
+Robson Oliveira,Barba,2025-04-21,11:00,30,Pix,Lucas
+Beatriz Costa,Corte de cabelo,2025-04-22,12:00,40,Cartão,Bruno
+Mariana Lima,Corte + Barba,2025-04-22,13:00,70,Pix,Lucas
+Victor Almeida,Barba,2025-04-23,14:00,30,Cartão,André
+Tatiane Souza,Corte de cabelo,2025-04-23,15:00,40,Dinheiro,Lucas
+Daniela Rocha,Corte + Barba,2025-04-24,16:00,70,Cartão,Bruno
+Erick Costa,Barba,2025-04-24,10:00,30,Pix,Lucas
+Cristiane Almeida,Corte de cabelo,2025-04-25,11:00,40,Cartão,André
+Fábio Oliveira,Corte + Barba,2025-04-25,12:00,70,Dinheiro,Bruno
+Sandra Lima,Barba,2025-04-26,13:00,30,Pix,Lucas
+Juliana Costa,Corte de cabelo,2025-04-26,14:00,40,Cartão,André
+Rafael Souza,Corte + Barba,2025-04-27,15:00,70,Pix,Bruno
+Luciana Mendes,Barba,2025-04-27,10:00,30,Cartão,Lucas
+Felipe Costa,Corte de cabelo,2025-04-28,11:00,40,Dinheiro,André
+Denise Pereira,Corte + Barba,2025-04-28,12:00,70,Pix,Bruno
+Elenice Rocha,Barba,2025-04-29,13:00,30,Cartão,Lucas
+Andréia Lima,Corte de cabelo,2025-04-29,14:00,40,Cartão,Bruno
+Leandro Souza,Corte + Barba,2025-04-30,15:00,70,Pix,Lucas
+Camila Costa,Barba,2025-04-30,10:00,30,Dinheiro,André
+Hélio Lima,Corte de cabelo,2025-05-01,11:00,40,Cartão,Bruno
+Mariana Pereira,Corte + Barba,2025-05-01,12:00,70,Pix,Lucas
+Sílvia Costa,Barba,2025-05-02,13:00,30,Cartão,André
+Tiago Oliveira,Corte de cabelo,2025-05-02,14:00,40,Pix,Bruno
+Carolina Lima,Corte + Barba,2025-05-03,15:00,70,Cartão,Lucas
+Vítor Souza,Barba,2025-05-03,10:00,30,Dinheiro,André
+Juliano Costa,Corte de cabelo,2025-05-04,11:00,40,Cartão,Bruno
+Tânia Pereira,Corte + Barba,2025-05-04,12:00,70,Pix,Lucas
+Fernando Lima,Barba,2025-05-05,13:00,30,Cartão,André
+Beatriz Costa,Corte de cabelo,2025-05-05,14:00,40,Pix,Bruno
+Raquel Oliveira,Corte + Barba,2025-05-06,15:00,70,Cartão,Lucas
+Ricardo Lima,Barba,2025-05-06,10:00,30,Dinheiro,André
+Aline Souza,Corte de cabelo,2025-05-07,11:00,40,Cartão,Bruno
+José Pereira,Corte + Barba,2025-05-07,12:00,70,Pix,Lucas
+Luciane Costa,Barba,2025-05-08,13:00,30,Cartão,André
+Juliana Lima,Corte de cabelo,2025-05-08,14:00,40,Pix,Bruno
+Carlos Souza,Corte + Barba,2025-05-09,15:00,70,Cartão,Lucas
+Renato Costa,Barba,2025-05-09,10:00,30,Dinheiro,André
+Cristiane Oliveira,Corte de cabelo,2025-05-10,11:00,40,Cartão,Bruno
+Paula Lima,Corte + Barba,2025-05-10,12:00,70,Pix,Lucas
